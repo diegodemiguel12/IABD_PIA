@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Primera tarea de PIA</h1>
+<h2>Esta tarea consiste de dos partes, la primera crearse una cuenta de Github y crear un repositorio.</h2>
+<p>Dentro de este hay que añadir un archivo "Readme" en lenguaje de marcacion describiendo la tarea y un archivo "Hola Mundo" en python.</p>
+<h2>La segunda parte de la tarea presenta dos opciones, una mediante twitter y otra con Linkedin</h2>
+<p>En la opcion de tiwtter hay que, si tienes cuenta en Twitter,
+Crear una lista y nombrarla con alguna alusión a la inteligencia artificial, hacer una búsqueda de perfiles interesantes que compartan cosas relacionadas con la IA y añadirles a la lista, busca listas que hayan creado otros en torno a lenguajes de programación como Python, R o C++ y seguir alguna de ellas con buenos contenidos.
+Con la opcion de Linkedin hay que, seguir a Comunidad Spain AI y buscar profesionales o expertos en el ámbito de la inteligencia artificial y seguirles.</p>
+
+</body>
+</html>
